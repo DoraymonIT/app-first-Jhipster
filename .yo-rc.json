@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.simple.first",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "com.simple.first",
+    "packageFolder": "com/simple/first",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzE3MWVkNzQyYzc1MWU4MTlmODk0OTU1N2IxNmUxMGYyZTlhYjY2OTc5NWE0YzFmZDliZTEzNGRjMTkxYjhjNjVmZTk1MjAyYTY4MTg2YjU2ZmM1Zjc2MjA5MzhlMmQ5ZmQ2OWFhODM4ZTdmMmNjZDU0MjkzNTZjODJkN2Y0MWY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1594206945308,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "ar-ly", "fr"],
+    "blueprints": []
+  }
+}
